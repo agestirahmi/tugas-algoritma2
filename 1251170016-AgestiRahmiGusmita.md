@@ -1,5 +1,5 @@
 # tugas-algoritma2  
-**Nama:** Agesti Rahmi Gusmita 
+**Nama:** Agesti Rahmi Gusmita   
 **Kelas:** 3B 
 
 ## A. Analisis Komponen  
