@@ -16,4 +16,9 @@
 | Sequence | ketika program menjakankan langkah secara berurutan, misalnya membaca input, menghitung nominal diskon, lalu menghitung total bayar |  
 | Selection | untuk menentukan diskon berdasarkan status member, jumlah buku, dan total belajar. Bentuk yang digunakan pelanggan member terdapat percadangan bertingkat (nested IF).  |  
 | literation | pada proses Validasi. Jika total_awal < 0 atau jumlah_buku < 1 , data memasukan data kembali. pengulangan berhenti setelah semua data vlid. |  
+## pseudocode  
+PROGRAM Transaksi TokoBuku  
+ Program otomatisasi transaksi kasir untuk menghitung total pembayaran pelanggan beserta validasi input dan penetapan diskon.
+
+
 
